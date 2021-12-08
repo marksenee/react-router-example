@@ -13,4 +13,11 @@ npm i query-string
     1. Route path에 /:id
     1. query string 
 1. Switch component 이해 
-1. Link component 이해 
+1. Link component 
+1. Navigation Link 
+    1. src/components/NavLinks.jsx 생성
+    1. App.js에 NavLinks 추가
+    1. NavLinks.jsx에 활성화 + 스타일 지정 
+1. JS로 라우팅 
+1. Redirect 
+
