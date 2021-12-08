@@ -6,11 +6,13 @@ import Home from './pages/Home';
 import Profile from './pages/Profile';
 import NotFound from './pages/NotFound';
 import Links from './components/Links';
+import NavLinks from './components/NavLinks';
 
 function App() {
   return (
       <BrowserRouter>
       <Links />
+      <NavLinks />
       <Switch>
           <Route path="/profile/:id" component={Profile}></Route>
           <Route path="/profile" component={Profile}></Route>
