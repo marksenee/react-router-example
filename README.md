@@ -12,4 +12,5 @@ npm i query-string
 1. dynamic routing
     1. Route path에 /:id
     1. query string 
-
+1. Switch component 이해 
+1. Link component 이해 
